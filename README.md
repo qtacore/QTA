@@ -28,7 +28,7 @@ QTA是一个跨平台的测试自动化工具，适用于后台、原生或混�
 * Web (由QT4W driver提供)
 * Server (由QT4S driver提供)
 
-### Base components
+### 基础框架
 * [QTAF](https://github.com/tencent/QTAF) - QTA基础框架
 
 
