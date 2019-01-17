@@ -8,7 +8,7 @@ QTA is a cross-platform test automation tool for servers and native, hybrid and 
 * Android (powered by [QT4A](https://github.com/tencent/QT4A) driver)
 * Windows (powered by QT4C driver)
 * MacOS (powered by QT4Mac driver)
-* Web (powered by QT4W driver)
+* Web (powered by [QT4W](https://github.com/qtacore/QT4W) driver)
 * Server (powered by QT4S driver)
 
 ### Base components
@@ -25,7 +25,7 @@ QTA是一个跨平台的测试自动化工具，适用于后台、原生或混�
 * Android (由[QT4A](https://github.com/tencent/QT4A) driver提供)
 * Windows (由QT4C driver提供)
 * MacOS (由QT4Mac driver提供)
-* Web (由QT4W driver提供)
+* Web (由[QT4W](https://github.com/qtacore/QT4W) driver提供)
 * Server (由QT4S driver提供)
 
 ### 基础框架
